@@ -127,14 +127,14 @@
                 <img class="h-56 w-full object-cover rounded-lg" src="https://www.laserprintsoluciones.com/wp-content/uploads/2022/08/X512JA-211VBGB.png" alt="">
             </div>
             <div class="shadow rounded-lg h-56">
-                <img class="h-56 w-full object-cover rounded-lg" src="https://playstoreopal.com/wp-content/uploads/2022/03/Razer-Blackwidow-V3-Pro-2.png" alt="">
+                <img class="h-56 w-full object-cover rounded-lg" src="https://www.stuff.tv/wp-content/uploads/sites/2/2023/01/macbook-pro-2023-15.jpg?w=1080" alt="">
             </div>
         </div>
     </div>
     <div class="grid gap-4 mt-4 ">
         <div class="grid grid-cols-1 sm:grid-cols-5 gap-4">
             <div class="shadow rounded-lg h-56">
-                <img class="h-56 w-full object-cover rounded-lg" src="https://comstream.com.ng/wp-content/uploads/2021/07/Havit-HV-MS989GT.jpeg" alt="">
+                <img class="h-56 w-full object-cover rounded-lg" src="https://i.gadgets360cdn.com/large/microsoft_surface_pro11_1716279928677.jpg" alt="">
             </div>
             <div class="shadow rounded-lg h-56">
                 <img class="h-56 w-full object-cover rounded-lg" src="https://shared.cdn.smp.schibsted.com/v2/images/d1054ee4-4eda-4154-9eb7-5e3cbc7f6839?fit=crop&format=auto&h=900&w=1600&s=f63ef693254e35a95a5e0f1a3dd7bb98c5667118" alt="">
