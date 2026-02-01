@@ -241,7 +241,9 @@
                         </div>
                     </a>
                     <h3 class="mb-0 mt-1.5 font-bold text-white" style="letter-spacing: 3px;">PCSHOP</h3>
-                    <p class="text-white mt-2 ms-4" style="letter-spacing: 3px;">© 2024</p>
+                    <p class="text-white mt-2" style="letter-spacing: 3px;">
+                        © {{ date('Y') }} - SEREY Sunteang
+                    </p>
                 </div>
 
                 <div class="col col-md-4">
